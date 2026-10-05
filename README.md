@@ -80,3 +80,7 @@ React 19, Vite, Web Audio API, Vibration API.
 ## AI disclosure
 
 This project was co-developed with AI. The code, the haptic algorithm design and this README were built collaboratively with Anthropic's Claude (via Claude Code), with a human directing the goals, testing on a real Android device, and deciding which approaches to keep or discard. The haptic approach went through several iterations (full-spectrum analysis, bass filtering, envelope following, and finally onset detection) based on how each one felt in testing. Treat the code as AI-assisted and review it before relying on it.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
